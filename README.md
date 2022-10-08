@@ -1,6 +1,6 @@
 # Hi there, I'm Arsène.<br>Software developper, student.
 
-I'm currently studying computer science and UX/HCI design. 📍 Brussels, Belgium.
+I'm currently studying computer science (at 19 school) and information design (on the side). 📍 Brussels, Belgium.
 
 I got into programming because it's the closest thing to magic that we have. From the internet (connects every human to each other on the planete) to Google (access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
 
