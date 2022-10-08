@@ -1,6 +1,6 @@
 # Hi there, I'm Arsène.<br>Software developper, student.
 
-I'm 26-year-old student, currently learning computer science at 42 school.
+I'm 26-year-old student, currently learning computer science at 19 school.
 
 I got into programming because it's the closest thing to magic that we have. From the internet (connects every human to each other on the planete) to Google (access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
 
@@ -17,7 +17,4 @@ I started with front-end but my desire to understand how things work under the h
 
 ### Let's build something together
 Feel free to reach out if you're looking for a developper, have a question or just want to connect.
-a.rurangiza@gmail.com
-
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+a.rurangiza@gmail.com / [LinkedIn](https://www.linkedin.com/in/arsenerurangiza/) / [Twitter](https://twitter.com/arsenerurangiza)
