@@ -4,9 +4,11 @@ I'm 26-year-old student, currently learning computer science at 42 school.
 
 I got into programming because it's the closest thing to magic that we have. From the internet (connects every human to each other on the planete) to Google (access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
 
-So I'm excited to learn, build and contribute.
+So I'm excited to learn and contribute.
 
 ### My Skills
+I started with front-end but my desire to understand how things work under the hood lead me to C.
+
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -14,7 +16,7 @@ So I'm excited to learn, build and contribute.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Let's build something together
-In a few months (March 2023), I'll be looking for an internship so feel free to reach out.
+Feel free to reach out if you're looking for a developper, have a question or just want to connect.
 a.rurangiza@gmail.com
 
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
