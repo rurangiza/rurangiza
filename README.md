@@ -1,8 +1,10 @@
 # Hi there, I'm Arsène.<br>Software developper, student.
 
-I'm based in Belgium and I'm currently studying computer science and UX design (in my free time).
+I'm based in Belgium and I'm currently studying computer science and UX/HCI design.
 
 I got into programming because it's the closest thing to magic that we have. From the internet (connects every human to each other on the planete) to Google (access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
+
+> "Any sufficiently advanced technology is indistinguishable from magic." - _Arthur C. Clarke (science-fiction writer)_
 
 So I'm excited to learn and contribute to useful tools.
 
