@@ -7,7 +7,7 @@ I got into programming because it's the closest thing to magic that we have. Fro
 So I'm excited to learn and contribute to useful tools.
 
 ### My Skills
-My favorite software solve difficult problems and are delightful to use, so I'm building the skill set necessary to create such tools.
+My favorite software solve difficult problems and are delightful to use, so I'm building the skill set necessary to help create such tools.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
