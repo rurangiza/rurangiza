@@ -18,6 +18,6 @@ I believe that great software solve difficult problems and are delightful to use
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-### Let's build something together
+### Let's connect
 Feel free to reach out if you're looking for a developper, have a question or just want to connect.
 a.rurangiza@gmail.com / [LinkedIn](https://www.linkedin.com/in/arsenerurangiza/) / [Twitter](https://twitter.com/arsenerurangiza)
