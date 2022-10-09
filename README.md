@@ -2,9 +2,9 @@
 
 I'm currently studying computer science (at 19 school) and information design. 📍 Brussels, Belgium.
 
-I got into programming because it's the closest thing to magic that we have. From the internet (connects every human to each other on the planete) to Google (access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
+I got into programming because it's the closest thing to magic that we have. From the internet (which connects every human on the planete) to Google (giving access to more useful knowledge than we can consume) or Spotify (all the music ever recorded in your pocket) and many more. All of them exist thanks to software ✨
 
-> "Any sufficiently advanced technology is indistinguishable from magic." - _Arthur C. Clarke (science-fiction writer)_
+> "**Any sufficiently advanced technology is indistinguishable from magic.**" - _Arthur C. Clarke (science-fiction writer)_
 
 So I'm excited to learn and contribute to useful tools.
 
