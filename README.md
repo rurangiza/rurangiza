@@ -1,4 +1,4 @@
-# Hello there, I'm Arsene <br>Software Engineer Student
+# Hi there, I'm Arsene <br>Software Engineer Student
 - Currently studying computer science at school 19 (Belgium), part of 42 Network
 - Previously studied electroacoustic/acousmatic composition at the conservatory
 - Interrested in design: Information Design, Human Computer Interaction, UI/UX
