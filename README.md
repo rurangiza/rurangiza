@@ -4,7 +4,7 @@
 - Interrested in design: Information Design, Human Computer Interaction, UI/UX
 - Love anime where the mc is op but hides it
 
-## 42cursus Progress 💪🏻
+## Curriculum Progress 💪🏻
 | No | Project                                                     | Status  |   | No | Project     | Status |   | No | Project          | Status |
 |----|-------------------------------------------------------------|---------|---|----|-------------|--------|---|----|------------------|--------|
 | 1  | [libft](https://github.com/rurangiza/libft)                 | ✅       |   | 6  | push_swap   | 🔐     |   | 11 | CPP Modules      | 🔒     |
