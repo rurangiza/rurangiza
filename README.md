@@ -1,6 +1,8 @@
 # Hello there, I'm Arsene <br>
 - Currently studying computer science at school 19, part of 42 Network
 - Previously studied electroacoustic/acousmatic composition at the conservatory
+- Interrested in design: information design, human computer interaction, UI/UX
+- Love anime where the mc is op but hides it
 
 ## 42cursus Progress 💪🏻
 | No | Project                                                     | Status  |   | No | Project     | Status |   | No | Project          | Status |
