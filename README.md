@@ -7,6 +7,3 @@
 | 4  | [born2beroot](https://github.com/rurangiza/born2beroot)     | ✅       |   | 9  | philosopher | 🔒     |   | 14 | ft_container     | 🔒     |
 | 5  | [so_long](https://github.com/rurangiza/so_long)             | ✅  |   | 10 | cub3d       | 🔒     |   | 15 | webserv / ft_irc | 🔒     |
 |    |                                                             |         |   |    |             |        |   | 16 | transcendence    | 🔒     |
-
-## 📱 Connect With Me!
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenerurangiza/)
