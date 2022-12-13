@@ -1,9 +1,3 @@
-# Hi there, I'm Arsene <br>Software Engineer Student
-- Currently studying computer science at [school 19](https://campus19.be/) (Belgium), part of 42 Network
-- Previously studied electroacoustic/acousmatic music composition at the conservatory
-- Interrested in design: Information Design, Human Computer Interaction, UI/UX
-- Love anime where the mc is op but hides it
-
 ## Curriculum Progress 💪🏻
 | No | Project                                                     | Status  |   | No | Project     | Status |   | No | Project          | Status |
 |----|-------------------------------------------------------------|---------|---|----|-------------|--------|---|----|------------------|--------|
