@@ -8,5 +8,8 @@
 - [ ] **inception**: set up containers with Docker
 - [ ] **ft_transcendance** : build a web app to play pong, with user accounts, leaderboard and instant messaging
 
+### Interests
+Tools for thought, A.I, Information Design, HCI, UX and everything web
+
 ### Contact
 Reach me on [LinkedIn](https://www.linkedin.com/in/arsenerurangiza/) or at a.rurangiza (at) gmail.com.
