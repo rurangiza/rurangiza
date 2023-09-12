@@ -12,7 +12,7 @@ I'm based in Belgium and currently studying backend development at 42 school (Be
 
 ## Leetcode [[DSA]](https://github.com/arurangi/dsa)
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://leetcard.jacoblin.cool/rurangiza?theme=light&font=Tiro%20Kannada" alt="LeetCode Stats" style="width: 43%;">
+    <img src="https://leetcard.jacoblin.cool/rurangiza?theme=light&font=Tiro%20Kannada" alt="LeetCode Stats" style="width: 50%;">
 </div>
 
 ### Contact
