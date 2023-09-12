@@ -1,4 +1,5 @@
 # Hi There! I'm Arsène.<br>I'm a software engineer student<br>
+I'm based in Belgium and currently studying backend development at 42 school (Belgium).
 
 ## Curriculum
 ||||
@@ -9,9 +10,9 @@
 | ✅ born2BeRoot | ✅ philosopher | ⬜ transcendance|
 | ✅ so_long     | ✅ cub3D       | |
 
-## Leetcode [[DSA]]()
+## Leetcode [[DSA]](https://github.com/arurangi/dsa)
 <div style="width: 100%; overflow: hidden;">
-    <img src="https://leetcard.jacoblin.cool/rurangiza?theme=light&font=Tiro%20Kannada" alt="LeetCode Stats" style="width: 100%;">
+    <img src="https://leetcard.jacoblin.cool/rurangiza?theme=light&font=Tiro%20Kannada" alt="LeetCode Stats" style="width: 43%;">
 </div>
 
 ### Contact
