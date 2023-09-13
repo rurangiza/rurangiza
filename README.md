@@ -8,7 +8,7 @@ I'm based in Belgium and currently studying backend development at 42 school (Be
 | ✅ getNextLine | ✅ pipex       | ⬜ inception       |
 | ✅ printf      | ✅ [minishell](https://github.com/arurangi/minishell)   | ⬜ webserv |
 | ✅ born2BeRoot | ✅ philosopher | ⬜ transcendance|
-| ✅ so_long     | ✅ cub3D       | |
+| ✅ [so_long](https://github.com/arurangi/adventura.git)     | ✅ cub3D       | |
 
 ## Leetcode [[DSA]](https://github.com/arurangi/dsa)
 <div style="width: 100%; overflow: hidden;">
