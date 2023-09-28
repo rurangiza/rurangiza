@@ -5,8 +5,8 @@ I'm based in Belgium and currently studying backend development at 42 school (Be
 ||||
 | -- | -- | -- |
 | ✅ libft       | ✅ push_swap   | ✅ [piscine c++](https://github.com/arurangi/piscine-cpp)     |
-| ✅ getNextLine | ✅ pipex       | 👨🏽‍💻 [inception](https://github.com/arurangi/inception)       |
-| ✅ printf      | ✅ [minishell](https://github.com/arurangi/minishell)   | ⬜ webserv |
+| ✅ getNextLine | ✅ pipex       | ✅ [inception](https://github.com/arurangi/inception)       |
+| ✅ printf      | ✅ [minishell](https://github.com/arurangi/minishell)   | 👨🏽‍💻 **[webserv](https://github.com/arurangi/webserver)** |
 | ✅ born2BeRoot | ✅ philosopher | ⬜ transcendance|
 | ✅ [so_long](https://github.com/arurangi/adventura.git)     | ✅ cub3D       | |
 
