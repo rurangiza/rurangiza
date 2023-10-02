@@ -1,7 +1,7 @@
 # Hi There! I'm Arsène.<br>I'm a software engineer student<br>
 I'm based in Belgium and currently studying backend development at 42 school (Belgium).
 
-### Currently building: **[webserv](https://github.com/arurangi/webserver)**
+### Currently building: ** [webserv](https://github.com/arurangi/webserver) **
 An HTTP server in C++
 
 <!--
