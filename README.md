@@ -4,7 +4,6 @@ I'm based in Belgium and currently studying backend development at 42 school (Be
 ### Currently building: ** [webserv](https://github.com/arurangi/webserver) **
 An HTTP server in C++
 
-<!--
 ## Curriculum
 ||||
 | -- | -- | -- |
@@ -13,7 +12,6 @@ An HTTP server in C++
 | ✅ printf      | ✅ [minishell](https://github.com/arurangi/minishell)   | 👨🏽‍💻 **[webserv](https://github.com/arurangi/webserver)** |
 | ✅ born2BeRoot | ✅ philosopher | ⬜ transcendance|
 | ✅ [so_long](https://github.com/arurangi/adventura.git)     | ✅ cub3D       | |
--->
 
 ### Leetcode [[DSA]](https://github.com/arurangi/dsa)
 <div style="width: 100%; overflow: hidden;">
