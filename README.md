@@ -1,7 +1,11 @@
-Hi there 👋, I'm Arsène.<br>I'm a **software engineer** based in **Belgium**<br>and currently studying **backend development** at campus 19 (42 Network).
+Hi there! I'm Arsène.<br>I'm a **software engineer** based in Belgium<br>and currently studying **backend development** at campus 19 (42 Network).
 
-### 🔥 Building: [ft_transcendance](https://github.com/jsilance/ft_transcendence) (Django, Vanilla JS, PostgreSQL)
-A web application for playing the classic game **Pong** 🏓. The game will be multiplayer, with scoreboards, user accounts and chat rooms and more.
+### 🔥 Currently:
+
+Together with 3 mates, we're building [ft_transcendance](https://github.com/jsilance/ft_transcendence).
+A modern version of the classic game **Pong** 🏓 in the form of a web application. The game will be multiplayer, match making system, with scoreboards, user accounts and stats, and a chat functionality.
+
+[![Profile badge](https://www.codewars.com/users/rurangiza/badges/large)](https://www.codewars.com/users/marcelus33)
 
 ### 📮 Contact
 Starting **January 2024** I'll be looking for a position in **Full-Stack web development**, if interrested you can reach me on [LinkedIn](https://www.linkedin.com/in/arsenerurangiza/) or at a.rurangiza@gmail.com.
